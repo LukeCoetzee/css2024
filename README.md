@@ -1,3 +1,3 @@
-# css2024
+# css2024_Day01
 
 Welcome to the coding summer school
